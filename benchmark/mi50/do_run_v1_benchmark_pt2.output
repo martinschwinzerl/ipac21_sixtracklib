@@ -1,0 +1,286 @@
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 2275
+             : num_work_items = 582400
+
+elapsed time : 19.1989 sec
+             : 3.29778e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 2355
+             : num_work_items = 602880
+
+elapsed time : 19.836 sec
+             : 3.29143e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 2435
+             : num_work_items = 623360
+
+elapsed time : 20.5854 sec
+             : 3.30352e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 2515
+             : num_work_items = 643840
+
+elapsed time : 21.2078 sec
+             : 3.2951e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 2595
+             : num_work_items = 664320
+
+elapsed time : 21.8704 sec
+             : 3.29326e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 2675
+             : num_work_items = 684800
+
+elapsed time : 22.5721 sec
+             : 3.29724e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 2755
+             : num_work_items = 705280
+
+elapsed time : 23.2412 sec
+             : 3.29636e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 2835
+             : num_work_items = 725760
+
+elapsed time : 23.9065 sec
+             : 3.29501e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 2915
+             : num_work_items = 746240
+
+elapsed time : 24.589 sec
+             : 3.29604e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 2995
+             : num_work_items = 766720
+
+elapsed time : 25.2586 sec
+             : 3.29533e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3075
+             : num_work_items = 787200
+
+elapsed time : 25.8857 sec
+             : 3.28926e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3155
+             : num_work_items = 807680
+
+elapsed time : 26.6065 sec
+             : 3.2951e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3235
+             : num_work_items = 828160
+
+elapsed time : 27.242 sec
+             : 3.29035e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3315
+             : num_work_items = 848640
+
+elapsed time : 27.9217 sec
+             : 3.29104e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3395
+             : num_work_items = 869120
+
+elapsed time : 28.6064 sec
+             : 3.29227e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3475
+             : num_work_items = 889600
+
+elapsed time : 29.2981 sec
+             : 3.29423e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3555
+             : num_work_items = 910080
+
+elapsed time : 29.9313 sec
+             : 3.28968e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3635
+             : num_work_items = 930560
+
+elapsed time : 30.6656 sec
+             : 3.29618e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3715
+             : num_work_items = 951040
+
+elapsed time : 31.3045 sec
+             : 3.29238e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3795
+             : num_work_items = 971520
+
+elapsed time : 31.9182 sec
+             : 3.28614e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3875
+             : num_work_items = 992000
+
+elapsed time : 32.6289 sec
+             : 3.28995e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 3955
+             : num_work_items = 1012480
+
+elapsed time : 33.3128 sec
+             : 3.29094e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 4035
+             : num_work_items = 1032960
+
+elapsed time : 33.9753 sec
+             : 3.28984e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 4115
+             : num_work_items = 1053440
+
+elapsed time : 34.6236 sec
+             : 3.28741e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 4195
+             : num_work_items = 1073920
+
+elapsed time : 35.3166 sec
+             : 3.28925e-06 sec / particle / turn
+
+INFO :: compiling kernel: st_Track_until_particle_cobj_flat_buffer_opencl
+INFO :: compile flags   : -I /tmp/sixtracklib_1.x/git/sixtracklib_1.x/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+OPENCL TIMING: 
+track_kernel : max_wg_size    = 256
+             : num_blocks     = 4275
+             : num_work_items = 1094400
+
+elapsed time : 35.9569 sec
+             : 3.28621e-06 sec / particle / turn
+
